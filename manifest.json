@@ -1,9 +1,10 @@
 {
-	"id": "ec280171-c67b-4cf7-923f-dc27fea91ee1",
-	"authors": ["CubeCoders Limited", "AMP Community", "ChewyCanadian"],
-	"origin": "https://github.com/CubeCoders/AMPTemplates.git",
-	"url": "https://github.com/CubeCoders/AMPTemplates",
-	"imagefile": "",
-	"prefix": "",
-	"repotype": "AppTemplates"
+    "id": "8dbbfce0-cbad-44c7-90e9-e64fad76bd19",
+    "authors": [
+        "ChewyCanadian - Made with AMP Config Generator"
+    ],
+    "origin": "https://github.com/ChewyCanadian - Made with AMP Config Generator/AMPTemplates.git",
+    "url": "https://github.com/ChewyCanadian - Made with AMP Config Generator/AMPTemplates",
+    "imagefile": "",
+    "prefix": "ChewyCanadian - Made with AMP Config Generator"
 }
